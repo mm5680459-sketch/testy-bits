@@ -66,6 +66,7 @@ nav ul li a:hover {
 
 .hero {
   background-image: url(bg-hero.jfif);
+
   background-position: center;
   background-size: cover;
   display: flex;
